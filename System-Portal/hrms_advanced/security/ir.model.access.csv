@@ -1,0 +1,3 @@
+﻿id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hrms_employee_employee,hrms.employee.employee,model_hrms_employee,group_hrms_employee,1,1,1,0
+access_hrms_employee_manager,hrms.employee.manager,model_hrms_employee,group_hrms_manager,1,1,1,1
